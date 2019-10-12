@@ -1,5 +1,7 @@
 # Gatsby.js MDX Blog Starter Project
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c519bde-f245-4e3e-883f-63db25d651f7/deploy-status)](https://app.netlify.com/sites/pedantic-jepsen-3fb738/deploys)
+
 A starter project in [Gatsby.js](https://www.gatsbyjs.org/) with [MDX](https://github.com/mdx-js/mdx) to render React components in Markdown. Used by:
 
 * [Egghead.io](https://github.com/eggheadio/gatsby-starter-egghead-blog)
